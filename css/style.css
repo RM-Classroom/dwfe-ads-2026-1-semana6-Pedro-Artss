@@ -1,0 +1,62 @@
+body {
+    font-family: 'Georgia', serif; 
+    background-image: radial-gradient(circle, #1a1a1a 0%, #0d0d0d 100%);
+}
+
+.text-gold {
+    color: #d4af37 !important;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.bg-black {
+    background-color: #000 !important;
+}
+
+.custom-link {
+    color: #888 !important;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.custom-link:hover {
+    color: #ff4500 !important;
+    text-shadow: 0 0 8px #ff4500;
+}
+
+.btn-outline-gold {
+    color: #d4af37;
+    border-color: #d4af37;
+}
+
+.btn-outline-gold:hover {
+    background-color: #d4af37;
+    color: #000;
+}
+
+.boss-img {
+    height: 180px;
+    object-fit: cover;
+    filter: grayscale(40%);
+    transition: 0.5s;
+}
+
+.custom-card {
+    transition: transform 0.3s, border-color 0.3s;
+}
+
+.custom-card:hover {
+    transform: translateY(-10px);
+    border-color: #ff4500 !important;
+}
+
+.custom-card:hover .boss-img {
+    filter: grayscale(0%);
+}
+
+.recompensa {
+    color: #ffaa00;
+}
+
+.busca {
+    background: #151515;
+}
