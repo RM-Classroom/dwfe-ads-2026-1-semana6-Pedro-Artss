@@ -10,18 +10,23 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Pedro Arthur Silva Senra
+- Matricula: 924367
+- Proposta de projeto escolhida: 4. Coleções e Itens (Entidade Principal: Bosses / Entidade Secundária: Itens e Drops).
+- Breve descrição sobre seu projeto: O "Lothric Compendium" é uma enciclopédia interativa dedicada ao universo de Dark Souls III. A aplicação cataloga os principais chefes do jogo (Bosses), exibindo informações críticas como drops de almas e itens de transposição.
+
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1868" height="1036" alt="image" src="https://github.com/user-attachments/assets/3db69d23-5453-4b17-b981-76f9857f5937" />
+<img width="1874" height="1039" alt="image" src="https://github.com/user-attachments/assets/9470fdd8-90dd-4ab0-b2d3-e183031fac29" />
+
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="695" height="912" alt="image" src="https://github.com/user-attachments/assets/32af0a89-ef72-497a-88f2-332ec403d888" />
+<img width="728" height="917" alt="image" src="https://github.com/user-attachments/assets/1ac199c2-a5b5-464d-8902-89aaa7f91152" />
+
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
